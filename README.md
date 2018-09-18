@@ -20,7 +20,7 @@
     "pools": [
         {
             "url": "pool.supportxmr.com:7777",
-            "user": "49kYSYxeHgE6emjTVtiFqJCjnWNsxE65gRUrjGa2PA2f9aPPxrwU7k2MvfHVz6RanHBPNQxRByMpxJxfy8TfisgBQTqD6ve",
+            "user": "44rgq1mnV7RPvPS51rPiDcEiyzaN9XrtFcb7zw1ERn5jWYmQmc8DxMf1CrBowHtGCHKE5ygYiiioEVssnxRLuEW5PGXyWCT",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
